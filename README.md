@@ -7,4 +7,4 @@ Implementation (technologies used): <br>
 Extra notes: Included Parcel 2 & polyfilling for Modules bundling + Responsive Mobile Design <br>
 Check out some screenshots of my project: 
 ![SCREENSHOT](https://github.com/adrianapopd/FinEase-App/blob/main/finease1.png)
-![SCREENSHOT](https://github.com/adrianapopd/FinEase-App/blob/main/finease2.png)
+![SCREENSHOT](https://github.com/adrianapopd/FinEase-App/blob/main/finease3.png)
