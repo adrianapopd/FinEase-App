@@ -6,5 +6,5 @@ Implementation (technologies used): <br>
 • JavaScript: The use of  Internationalization API, as long as modern programming techniques such as "Functional Programming" (using the "map", "filter", "reduce" methods), respectively the declarative syntax (using the "ternary operator" or "template literals") , but also opting for structuring in Modules, for code encapsulation, abstraction and reuse. <br>
 Extra notes: Included Parcel 2 & polyfilling for Modules bundling + Responsive Mobile Design <br>
 Check out some screenshots to see my project: 
-![SCREENSHOT](http://url/to/finease1.png)
+![SCREENSHOT](http://./finease1.png)
 
