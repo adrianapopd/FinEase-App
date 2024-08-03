@@ -8,3 +8,4 @@ Extra notes: Included Parcel 2 & polyfilling for Modules bundling + Responsive M
 Check out some screenshots of my project: 
 ![SCREENSHOT](https://github.com/adrianapopd/FinEase-App/blob/main/finease1.png)
 ![SCREENSHOT](https://github.com/adrianapopd/FinEase-App/blob/main/finease3.png)
+![screenshot](https://github.com/adrianapopd/FinEase-App/blob/main/mobiledesign.png)
